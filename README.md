@@ -8,7 +8,7 @@
 - Green Area: Forests, fields, and vegetated land
 - Desert: Arid and sandy landscapes
 - Cloud: Various cloud formations
-- 
+  
 🔧 Technologies & Libraries Used
 - Python, Pandas, NumPy
 - Seaborn, Matplotlib for visualization
