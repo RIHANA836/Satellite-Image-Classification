@@ -1,4 +1,4 @@
-# ### Satellite Image Classification Using CNN  
+### Satellite Image Classification Using CNN  
 
 ## 🌍 Project Overview  
 This deep learning project classifies satellite images into four categories: **Water, Green Area, Desert, and Cloud**.  
