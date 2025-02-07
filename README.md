@@ -1,7 +1,7 @@
 ### Satellite Image Classification Using CNN
 
 🌍 Project Overview
-- This deep learning project classifies satellite images into four categories: Water, Green Area, Desert, and Cloud. The model is built using Convolutional Neural Networks (CNNs) for accurate image recognition.
+ This deep learning project classifies satellite images into four categories: Water, Green Area, Desert, and Cloud. The model is built using Convolutional Neural Networks (CNNs) for accurate image recognition.
 
 📊 Dataset
 - Water: Satellite images of water bodies
@@ -38,4 +38,4 @@ Loaded and labeled images:
 - Predictions: Model successfully classifies satellite images
 
 📚 Conclusion
-- This project demonstrates how CNNs can assist in analyzing satellite imagery, supporting research and real-world applications in environmental science and remote sensing.
+ This project demonstrates how CNNs can assist in analyzing satellite imagery, supporting research and real-world applications in environmental science and remote sensing.
